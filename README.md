@@ -1,3 +1,4 @@
+![Version](https://img.shields.io/badge/version-v1.0-blue?style=flat-square) ![Platform](https://img.shields.io/badge/platform-offline%20HTML-success?style=flat-square) ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey?style=flat-square)
 # ΥΠΗΡΕΣΙΕΣ PRO
 
 Πρόγραμμα / εφαρμογή αυτόματης κατανομής 24ωρων στρατιωτικών υπηρεσιών (βαρδιών). Λειτουργεί πλήρως **offline**, χωρίς εγκατάσταση, σε ένα μόνο αρχείο HTML, ώστε να μπορεί εύκολα να μεταφερθεί και να χρησιμοποιηθεί.
@@ -9,9 +10,16 @@
 - Χειροκίνητη διόρθωση με κλείδωμα/αναίρεση
 - Εξαγωγές σε Excel (μηνιαίο πρόγραμμα, Έλεγχος Τριμήνου/Έτους, Κατάσταση Πληρωμής)
 - Αντίγραφα ασφαλείας (.json) και διαχείριση μνήμης
+- Πατώντας στο πρόγραμμα πάνω δεξιά στο "..." , μπορείς να βρεις αναλυτικές οδηγίες χρήσης.
 
 ## Λήψη
 Κατέβασε την τελευταία έκδοση από την ενότητα **[Releases](../../releases)** εδώ δεξιά, και άνοιξε το αρχείο `.html` με οποιοδήποτε browser (Chrome, Edge, Firefox). Δεν χρειάζεται εγκατάσταση ή σύνδεση στο internet.
+
+## Υποστήριξη
+
+<a href="https://paypal.me/mardarts"><img src="https://img.shields.io/badge/💙_Κανε_μια_Δωρεα-PayPal-0070BA?style=for-the-badge" alt="Donate via PayPal" width="260"></a>
+
+<a href="https://ko-fi.com/mardarts"><img src="https://img.shields.io/badge/☕_Κερασε_με_εναν_καφε-Ko--fi-FF5E5B?style=for-the-badge" alt="Support via Ko-fi" width="260"></a>
 
 ## Άδεια χρήσης
 © 2026 Mardarts. Με επιφύλαξη παντός δικαιώματος (All Rights Reserved). Το λογισμικό διατίθεται δωρεάν προς χρήση, χωρίς όμως δικαίωμα αναδιανομής, τροποποίησης ή εμπορικής εκμετάλλευσης χωρίς άδεια.

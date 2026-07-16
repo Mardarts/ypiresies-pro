@@ -17,9 +17,10 @@
 
 ## Υποστήριξη
 
-<a href="https://paypal.me/mardarts"><img src="https://img.shields.io/badge/💙_Κανε_μια_Δωρεα-PayPal-0070BA?style=for-the-badge" alt="Donate via PayPal" width="260"></a>
+<a href="https://revolut.me/mardarts"><img src="https://img.shields.io/badge/💜_Κάνε_μια_Δωρεά-Revolut-191C1F?style=for-the-badge" alt="Donate via Revolut" width="260"></a>
 
-<a href="https://ko-fi.com/mardarts"><img src="https://img.shields.io/badge/☕_Κερασε_με_εναν_καφε-Ko--fi-FF5E5B?style=for-the-badge" alt="Support via Ko-fi" width="260"></a>
+<a href="https://ko-fi.com/mardarts"><img src="https://img.shields.io/badge/☕_Κέρασε_με_έναν_καφέ-Ko--fi-FF5E5B?style=for-the-badge" alt="Support via Ko-fi" width="260"></a>
+
 
 ## Άδεια χρήσης
 © 2026 Mardarts. Με επιφύλαξη παντός δικαιώματος (All Rights Reserved). Το λογισμικό διατίθεται δωρεάν προς χρήση, χωρίς όμως δικαίωμα αναδιανομής, τροποποίησης ή εμπορικής εκμετάλλευσης χωρίς άδεια.

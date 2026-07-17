@@ -13,11 +13,14 @@
 - Πατώντας στο πρόγραμμα πάνω δεξιά στο "..." , μπορείς να βρεις αναλυτικές οδηγίες χρήσης.
 
 ## Λήψη
-Κατέβασε την τελευταία έκδοση από την ενότητα **[Releases](../../releases)** εδώ δεξιά, και άνοιξε το αρχείο `.html` με οποιοδήποτε browser (Chrome, Edge, Firefox). Δεν χρειάζεται εγκατάσταση ή σύνδεση στο internet.
+Κατέβασε την τελευταία έκδοση από την ενότητα **[Releases](../../releases)** εδώ, και άνοιξε το αρχείο `ypiresies-pro_v1.0.html` με οποιοδήποτε browser (Chrome, Edge, Firefox). Δεν χρειάζεται εγκατάσταση ή σύνδεση στο internet.
 
 ## Υποστήριξη
 
 <a href="https://revolut.me/mardarts"><img src="https://img.shields.io/badge/💜_Κάνε_μια_Δωρεά-Revolut-191C1F?style=for-the-badge" alt="Donate via Revolut" width="260"></a>
+
+<img width="260" alt="RevolutQR" src="https://github.com/user-attachments/assets/cb7ef048-e811-44bd-b3a4-6bf3f3d05acb" />
+
 
 <a href="https://ko-fi.com/mardarts"><img src="https://img.shields.io/badge/☕_Κέρασε_με_έναν_καφέ-Ko--fi-FF5E5B?style=for-the-badge" alt="Support via Ko-fi" width="260"></a>
 

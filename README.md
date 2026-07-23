@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-v1.0-blue?style=flat-square) ![Platform](https://img.shields.io/badge/platform-offline%20HTML-success?style=flat-square) ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey?style=flat-square)
+![Version](https://img.shields.io/badge/version-v1.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/platform-offline%20HTML-success?style=flat-square) ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey?style=flat-square)
 # ΥΠΗΡΕΣΙΕΣ PRO
 
 Πρόγραμμα / εφαρμογή αυτόματης κατανομής 24ωρων στρατιωτικών υπηρεσιών (βαρδιών). Λειτουργεί πλήρως **offline**, χωρίς εγκατάσταση, σε ένα μόνο αρχείο HTML, ώστε να μπορεί εύκολα να μεταφερθεί και να χρησιμοποιηθεί.
@@ -19,7 +19,7 @@
 
 <a href="https://revolut.me/mardarts"><img src="https://img.shields.io/badge/💜_Κάνε_μια_Δωρεά-Revolut-191C1F?style=for-the-badge" alt="Donate via Revolut" width="260"></a>
 
-<img width="260" alt="RevolutQR" src="https://github.com/user-attachments/assets/cb7ef048-e811-44bd-b3a4-6bf3f3d05acb" />
+<img width="220" alt="RevolutQR" src="https://github.com/user-attachments/assets/cb7ef048-e811-44bd-b3a4-6bf3f3d05acb" />
 
 
 <a href="https://ko-fi.com/mardarts"><img src="https://img.shields.io/badge/☕_Κέρασε_με_έναν_καφέ-Ko--fi-FF5E5B?style=for-the-badge" alt="Support via Ko-fi" width="260"></a>

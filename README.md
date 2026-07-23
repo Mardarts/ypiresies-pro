@@ -19,7 +19,7 @@
 
 <a href="https://revolut.me/mardarts"><img src="https://img.shields.io/badge/💜_Κάνε_μια_Δωρεά-Revolut-191C1F?style=for-the-badge" alt="Donate via Revolut" width="260"></a>
 
-<img width="220" alt="RevolutQR" src="https://github.com/user-attachments/assets/cb7ef048-e811-44bd-b3a4-6bf3f3d05acb" />
+<img width="180" alt="RevolutQR" src="https://github.com/user-attachments/assets/cb7ef048-e811-44bd-b3a4-6bf3f3d05acb" />
 
 
 <a href="https://ko-fi.com/mardarts"><img src="https://img.shields.io/badge/☕_Κέρασε_με_έναν_καφέ-Ko--fi-FF5E5B?style=for-the-badge" alt="Support via Ko-fi" width="260"></a>

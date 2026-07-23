@@ -13,7 +13,7 @@
 - Πατώντας στο πρόγραμμα πάνω δεξιά στο "..." , μπορείς να βρεις αναλυτικές οδηγίες χρήσης.
 
 ## Λήψη
-Κατέβασε την τελευταία έκδοση από την ενότητα **[Releases](../../releases)** εδώ, και άνοιξε το αρχείο [`Ypiresies_PRO_v1_0.html`](https://github.com/Mardarts/ypiresies-pro/releases/download/v1.0/Ypiresies_PRO_v1_0.html)  με οποιοδήποτε browser (Chrome, Edge, Firefox). Δεν χρειάζεται εγκατάσταση ή σύνδεση στο internet.
+Κατέβασε την τελευταία έκδοση από την ενότητα **[Releases](../../releases)** εδώ, και άνοιξε το αρχείο [`Ypiresies_PRO_v1_1.html`](https://github.com/Mardarts/ypiresies-pro/releases/download/v1.0/Ypiresies_PRO_v1_1.html)  με οποιοδήποτε browser (Chrome, Edge, Firefox). Δεν χρειάζεται εγκατάσταση ή σύνδεση στο internet.
 
 ## Υποστήριξη
 

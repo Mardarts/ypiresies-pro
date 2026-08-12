@@ -15,15 +15,9 @@
 ## Λήψη
 Κατέβασε την τελευταία έκδοση από την ενότητα **[Releases](../../releases)** ή από εδώ, και άνοιξε το αρχείο [`Ypiresies_PRO_v1_1.html`](https://github.com/Mardarts/ypiresies-pro/releases/download/v1.0/Ypiresies_PRO_v1_1.html)  με οποιοδήποτε browser (Chrome, Edge, Firefox). Δεν χρειάζεται εγκατάσταση ή σύνδεση στο internet.
 
-## Υποστήριξη
+## Αναφορά Προβλήματος
 
-<a href="https://revolut.me/mardarts"><img src="https://img.shields.io/badge/💜_Κάνε_μια_Δωρεά-Revolut-191C1F?style=for-the-badge" alt="Donate via Revolut" width="260"></a>
-
-<img width="180" alt="RevolutQR" src="https://github.com/user-attachments/assets/cb7ef048-e811-44bd-b3a4-6bf3f3d05acb" />
-
-
-<a href="https://ko-fi.com/mardarts"><img src="https://img.shields.io/badge/☕_Κέρασε_με_έναν_καφέ-Ko--fi-FF5E5B?style=for-the-badge" alt="Support via Ko-fi" width="260"></a>
-
+Αν παρατηρήσεις κάποιο πρόβλημα ή έχεις πρόταση για βελτίωση, μπορείς να το αναφέρεις μέσα από την ενότητα **[Issues](../../issues)** — πάτα «New issue», περίγραψε τι συνέβη, και θα το δω το συντομότερο δυνατό. 
 
 ## Άδεια χρήσης
 © 2026 Mardarts. Με επιφύλαξη παντός δικαιώματος (All Rights Reserved). Το λογισμικό διατίθεται δωρεάν προς χρήση, χωρίς όμως δικαίωμα αναδιανομής, τροποποίησης ή εμπορικής εκμετάλλευσης χωρίς άδεια.
